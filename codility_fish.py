@@ -18,3 +18,4 @@ def solution(A: list, B: list):
 assert solution([4, 3, 2, 1, 5], [0, 1, 0, 0, 0]) == 2
 assert solution([4, 2, 8, 3, 5, 9, 1], [0, 1, 1, 0, 1, 0, 0]) == 3
 assert solution([4, 5, 6], [0, 0, 1]) == 3
+assert solution([4, 5, 8], [1, 0, 0]) == 2
